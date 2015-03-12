@@ -15,7 +15,7 @@ namespace huinspector.Controllers
 
         public ActionResult Contact()
         {
-            //ViewBag.Message = "Voorbeeldpagina";
+            ViewBag.Message = "Example page; template for other student pages";
 
             return View();
         }
